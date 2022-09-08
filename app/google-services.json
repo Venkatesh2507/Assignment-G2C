@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106938781311",
+    "firebase_url": "https://gear2care-1e385-default-rtdb.firebaseio.com",
+    "project_id": "gear2care-1e385",
+    "storage_bucket": "gear2care-1e385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106938781311:android:aae6da38cc7b30dcc8794a",
+        "android_client_info": {
+          "package_name": "com.example.assignmentg2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106938781311-acbs8rovnbk5572qeomr0n1jc5bpviv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloCIXjAO_hFPjHmEFxh-qWBnciX3wPgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106938781311-acbs8rovnbk5572qeomr0n1jc5bpviv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
